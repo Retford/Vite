@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "homepage": "http://garujb.github.io/Vite",
   "scripts": {
-    "predeploy": "npm run build && echo 'retford.me' > ./build/CNAME",
+    "predeploy": "npm run build && echo retford.me > ./build/CNAME",
     "deploy": "gh-pages -d build",
     "dev": "vite",
     "build": "vite build",
