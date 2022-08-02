@@ -2,7 +2,7 @@
   "name": "citasmedicas",
   "private": true,
   "version": "0.0.0",
-  "homepage": "http://garujb.github.io/Vite",
+  "homepage": "http://garujb.github.io/Medic",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
